@@ -6,5 +6,5 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
     // Chuyển hướng sang trang HTML mới
-    window.location.href = "ye.html";
+    window.location.href = "https://nhan392.github.io/hb/";
   });
