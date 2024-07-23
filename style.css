@@ -634,3 +634,13 @@ button:nth-child(2) {
   background: white;
   color: #e94d58;
 }
+.video-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.video-wrapper video {
+    max-width: 100%;
+    max-height: 100%;
+}
