@@ -225,8 +225,8 @@ body {
 }
 .name{
     position: absolute;
-    padding: 0px 160px;
-    bottom: -20px;
+    padding: 0px 40px;
+    bottom: -80px;
     border: 3px solid var(--color-black);
 }
 .date__of__birth span, .name span{
