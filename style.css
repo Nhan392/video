@@ -612,7 +612,7 @@ body {
   justify-content: center;
   margin-top: 50px;
 }
-button {
+submit {
   position: absolute;
   width: 150px;
   height: inherit;
@@ -625,11 +625,11 @@ button {
   border: 2px solid #e94d58;
   font-size: 1.2em;
 }
-button:nth-child(1) {
+submit:nth-child(1) {
   margin-left: -px;
   background: #e94d58;
 }
-button:nth-child(2) {
+submit:nth-child(2) {
   margin-right: -200px;
   background: white;
   color: #e94d58;
